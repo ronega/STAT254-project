@@ -1,0 +1,39 @@
+\begin{thebibliography}{}
+
+\bibitem[Dosovitskiy et~al., 2021]{dosovitskiy2021image}
+Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X.,
+  Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S.,
+  Uszkoreit, J., and Houlsby, N. (2021).
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+
+\bibitem[He et~al., 2015]{he2015deep}
+He, K., Zhang, X., Ren, S., and Sun, J. (2015).
+\newblock Deep residual learning for image recognition.
+
+\bibitem[Krizhevsky et~al., 2012]{NIPS2012_c399862d}
+Krizhevsky, A., Sutskever, I., and Hinton, G.~E. (2012).
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In Pereira, F., Burges, C., Bottou, L., and Weinberger, K., editors,
+  {\em Advances in Neural Information Processing Systems}, volume~25. Curran
+  Associates, Inc.
+
+\bibitem[Ma et~al., 2018]{ma2018shufflenet}
+Ma, N., Zhang, X., Zheng, H.-T., and Sun, J. (2018).
+\newblock Shufflenet v2: Practical guidelines for efficient cnn architecture
+  design.
+
+\bibitem[Szegedy et~al., 2015]{szegedy2015rethinking}
+Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., and Wojna, Z. (2015).
+\newblock Rethinking the inception architecture for computer vision.
+
+\bibitem[Tan and Le, 2020]{tan2020efficientnet}
+Tan, M. and Le, Q.~V. (2020).
+\newblock Efficientnet: Rethinking model scaling for convolutional neural
+  networks.
+
+\bibitem[Tan and Le, 2021]{tan2021efficientnetv2}
+Tan, M. and Le, Q.~V. (2021).
+\newblock Efficientnetv2: Smaller models and faster training.
+
+\end{thebibliography}
