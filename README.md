@@ -2,7 +2,7 @@
 Final project for STAT254: Modern Statistical Prediction and Machine Learning
 
 # Structure
-Overall, the structure of the project is following:
+The structure of the project is following:
 
 ```bash
 .
@@ -27,7 +27,7 @@ Overall, the structure of the project is following:
     └── summary.csv
 ```
 
-Other weights could be sent upon request due to its large memory size.
+Folder `catboost` devoted to all experiments with catboost library. In folder `data/full` you can find the data I used for training. Each folder in `weights` corresponds to trained models. Other weights could be sent upon request due to its large memory size.
 
 # Example
 
